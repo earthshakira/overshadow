@@ -12,3 +12,10 @@ NOTE: This project is still in infancy, install and use at your own risk.
 ## Installation
 
 Currently you have to use the project through the git source code. Work is being done on pushing this to PyPI.
+
+
+## Todo
+
+- [ ] Where's the Source? `Python based Code on the way ASAP`
+- [ ] My stuff says it can't find some thing it needs `Dependecies` 
+
