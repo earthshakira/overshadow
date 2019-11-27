@@ -4,7 +4,7 @@
 
 This is a Python based project to create a simple subsystem to install linux packages and their dependencies in user directories. It is meant to be used for PC's where sudo access is not available
 
-This is based over `apt -download` and `dpkg -x` which downloads the packages in user space and unpacks them.
+This is based over `apt download` and `dpkg -x` which downloads the packages in user space and unpacks them.
 The paths need to be added to `.bashrc` so as to allow use over the commandline.
 
 NOTE: This project is still in infancy, install and use at your own risk.
@@ -17,5 +17,5 @@ Currently you have to use the project through the git source code. Work is being
 ## Todo
 
 - [ ] Where's the Source? `Python based Code on the way ASAP`
-- [ ] My stuff says it can't find some thing it needs `Dependecies` 
+- [ ] My stuff says it can't find some thing it needs `Dependencies` 
 
