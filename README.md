@@ -17,5 +17,9 @@ Currently you have to use the project through the git source code. Work is being
 ## Todo
 
 - [ ] Where's the Source? `Python based Code on the way ASAP`
-- [ ] My stuff says it can't find some thing it needs `Dependencies` 
+- [ ] My stuff says it can't find some thing it needs `Dependencies` `apt-cache depends <package name>`
+- [ ] The package needs some folders that are explicitly present in a directory [Read Here](https://serverfault.com/questions/135599/ubuntu-can-non-root-user-run-process-in-chroot-jail)
 
+
+
+ 
